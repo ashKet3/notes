@@ -1,3 +1,5 @@
+## Cloud Computing and Web Services
+
 ## 1. Differentiate between parallel and distributed computing.
 
 -> Parallel computing is a style of computation where multiple processing units work together on the same problem, typically sharing memory and coordinating through synchronization primitives. This approach focuses on exploiting concurrency within a single system or node.
