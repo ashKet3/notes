@@ -1,4 +1,4 @@
-##CYberLaw
+## CYberLaw
 
 ## 1. What is Virus? Explain its types.
 
