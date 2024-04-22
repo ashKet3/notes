@@ -1015,12 +1015,6 @@ The TRIMs agreement has contributed to increased transparency and predictability
 
 ## 55. Explain WCT, 1996
 
--> WCT stands for World Championship Tennis. The 1996 event refers to the professional tennis tournament held from April 27 to May 5, 1996, at the Royal Albert Hall in London, England.
-
-The 1996 WCT was a historic event as it marked the first time that a professional tennis tournament was held indoors on grass courts. It featured a round-robin format with eight players competing for a prize money of $1 million. The winner of the tournament was Pete Sampras, who defeated Boris Becker in the final.
-
-This unique event showcased the skills and adaptability of top tennis players as they adjusted to playing on a surface that is typically associated with lawn games rather than professional sports.
-
 <br />
 
 ## 56. Performance and Phonogram treaty, 1996.
@@ -1226,29 +1220,6 @@ To avoid these issues, ensure that your website's meta-tags are:
 <br />
 
 ## 68. Explain framing issues and Do’s and Don’ts for it.
-
--> Framing issues occur when the window or door frame is installed incorrectly, affecting the overall functionality and aesthetics of the opening. Here are some common framing issues and their do's and don'ts:
-
-**Common Framing Issues:**
-
-* **Rough Opening**: The opening in the wall is not precise, causing difficulties in installing the door or window.
-* **Misaligned Framing**: The frame is installed at an angle or not level, leading to uneven surfaces and potential water intrusion.
-* **Insufficient Support**: The framing does not provide sufficient support for the weight of the door or window.
-
-**Do's:**
-
-* Always verify the manufacturer's specifications for the door or window before installing the frame.
-* Use a spirit level to ensure the frame is installed level and plumb.
-* Verify that the rough opening is precise and matches the dimensions of the door or window.
-* Provide sufficient support for the weight of the door or window, using studs and top plates if necessary.
-
-**Don'ts:**
-
-* Don't install a frame without verifying the rough opening is precise.
-* Don't ignore misalignments or uneven surfaces, as they can lead to costly repairs down the line.
-* Don't overlook the importance of sufficient support for the weight of the door or window.
-
-By being aware of these common framing issues and following best practices, you can ensure a smooth installation process and avoid potential headaches in the long run.
 
 <br />
 
