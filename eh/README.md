@@ -1092,20 +1092,6 @@ Types of spoofing include:
 
 ## 60. What are preventive measures on hijacking.
 
--> Preventive measures to prevent hijacking include:
-
--   Being aware of surroundings and suspicious behavior
--   Keeping valuables out of sight
--   Not leaving luggage or packages unattended
--   Using secure parking areas and keeping vehicles in well-lit areas
--   Avoiding traveling alone at night
--   Reporting any suspicious activity to authorities
--   Not giving personal information or money to strangers
--   Being cautious with public transportation and taxi services
--   Not leaving children unattended or with strangers
--   Keeping emergency contact numbers handy
--   Staying informed about local conditions and potential threats
-
 <br />
 
 ## 61. What is hijacking give its types.
